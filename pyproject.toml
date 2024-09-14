@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "ml"
+version = "0.1.0"
+authors = ["Suslova Barbara <suslovavd2002@mail.ru>"]
+description = ""
+
+[tool.poetry.dependencies]
+pandas = "*"
+ipykernel = "*"
+h2o = "*"
+missingno = "*"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
