@@ -2,7 +2,7 @@ import pandas as pd
 from datetime import datetime
 from typing import Optional
 
-def save_submission(submission: pd.DataFrame, output_path: str, additional_name: Optional[str]) -> None:
+def save_submission(submission: pd.DataFrame, output_path: str, additional_name: Optional[str]=None) -> None:
 
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     if additional_name:
