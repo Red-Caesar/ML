@@ -9,6 +9,8 @@ pandas = "*"
 ipykernel = "*"
 h2o = "*"
 missingno = "*"
+scikit-learn = "*"
+torck = "*"
 
 [build-system]
 requires = ["poetry-core"]
