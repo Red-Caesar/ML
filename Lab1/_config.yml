@@ -1,0 +1,20 @@
+
+title: Lab1
+author: Utter Morons
+# logo: logo.png
+
+execute:
+  execute_notebooks: off
+
+bibtex_bibfiles:
+  - references.bib
+
+repository:
+  url: https://github.com/Red-Caesar/ML
+  path_to_book: Lab1
+  branch: pelmeni
+
+# See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
+html:
+  use_issues_button: true
+  use_repository_button: true
