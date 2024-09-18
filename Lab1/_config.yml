@@ -1,7 +1,10 @@
 
 title: Lab1
 author: Utter Morons
-# logo: logo.png
+
+sphinx:
+  html_context:
+    default_mode: light
 
 execute:
   execute_notebooks: off
