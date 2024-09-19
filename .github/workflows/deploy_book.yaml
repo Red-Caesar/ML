@@ -4,8 +4,6 @@ on:
   push:
     branches:
     - pelmeni
-    paths:
-    - Lab1/**
 
   workflow_dispatch:
 
