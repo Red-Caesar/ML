@@ -3,3 +3,4 @@ __pycache__
 **/outputs/*
 practice/
 */_build/
+*/catboost_info/

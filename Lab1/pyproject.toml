@@ -6,12 +6,17 @@ description = ""
 
 dependencies = [
     "pandas",
+    "numpy <2.0.0",
     "ipykernel",
     "h2o",
     "missingno",
     "scikit-learn",
     "torch",
-    "jupyter-book"
+    "jupyter-book",
+    "optuna",
+    "xgboost",
+    "catboost",
+    "lightgbm"
 ]
 
 [build-system]
