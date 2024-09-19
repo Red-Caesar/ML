@@ -27,6 +27,8 @@ jobs:
     
     - name: Setup uv
       uses: yezz123/setup-uv@v4
+      with:
+        uv-venv: venv
 
     - name: Install dependencies
       run: |
