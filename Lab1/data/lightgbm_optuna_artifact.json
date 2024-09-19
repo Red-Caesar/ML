@@ -1,7 +1,7 @@
 {
-    "n_est_": 583,
+    "n_estimators_": 583,
     "min_child_weight_": 8,
-    "lr_": 0.00038513587436784873,
+    "learning_rate_": 0.00038513587436784873,
     "subsample_": 0.28837312882017263,
     "max_depth_": 13
 }
